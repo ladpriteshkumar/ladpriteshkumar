@@ -5,11 +5,13 @@
 - 📫 Reach out to me on ladpriteshkumar@gmail.com
 
 
-# PRITESHKUMAR LAD #
-**Address:** 13717 Lubeck Dr , Pflugerville, TX 78660\
-**Email:** ladpriteshkumar@gmail.com\
-**Mobile No :** (201) 887 7834
+ # PRITESHKUMAR LAD # 
+**🌍** 13717 Lubeck Dr , Pflugerville, TX 78660\
+**📨** ladpriteshkumar@gmail.com\
+**📞** (201) 887 7834
 
+# CAREER OBJECTIVE #
+Aim to work in a challenging environment where I can utilize my expertise in technical skills, towards the development and implementation of the new ideas, contributing to the growth of the organization.
 
 <!---
 ladpriteshkumar/ladpriteshkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
