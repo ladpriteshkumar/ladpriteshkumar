@@ -13,6 +13,9 @@
 # CAREER OBJECTIVE #
 Aim to work in a challenging environment where I can utilize my expertise in technical skills, towards the development and implementation of the new ideas, contributing to the growth of the organization.
 
+# SUMMARY #
+
+- Having 11 years of exprience in Information Technology 
 <!---
 ladpriteshkumar/ladpriteshkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
