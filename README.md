@@ -15,7 +15,15 @@ Aim to work in a challenging environment where I can utilize my expertise in tec
 
 # SUMMARY #
 
-- Having 11 years of exprience in Information Technology 
+Experienced IT professional with over 10 years in designing and developing applications using Microsoft 
+technologies. Proficient in MVC design patterns, .NET frameworks (including .NET Core), and front-end 
+technologies such as AngularJS, Angular, and React. Skilled in developing RESTful Web APIs, gRPC 
+services, and leveraging Microsoft Azure and Outlook Add-ins. 
+Strong backend expertise with SQL SERVER, Ado.Net, Entity Framework, and database design, including 
+query development, stored procedures, and views. Experienced in creating responsive web designs 
+using Bootstrap, Kendo UI, DataTable.js, and nvd3.js. Known for strong teamwork, analytical, and 
+problem-solving skills, with a proven ability to adapt quickly to new technologies and situations, while 
+meeting deadlines proactively. 
 <!---
 ladpriteshkumar/ladpriteshkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
