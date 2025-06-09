@@ -8,7 +8,8 @@ Aim to work in a challenging environment where I can utilize my expertise in tec
 
 ## Summary
 - 11+ years of professional experience in Information Technology, designing and developing web and windows-based applications using Microsoft Technologies.
-- Demonstrated strong proficiency in the Model-View-Controller (MVC) architectural pattern, with hands-on experience developing web applications using ASP.NET MVC 4 and MVC 5 frameworks, ensuring efficient code organization, maintainability, and scalable solutions.
+- Demonstrated strong proficiency in the **Model-View-Controller (MVC)** architectural pattern, with hands-on experience developing web applications using ASP.NET MVC 4 and MVC 5 frameworks, ensuring efficient code organization, maintainability, and scalable solutions.
+- Proficient in leveraging AI-powered tools such as **GitHub Copilot** to accelerate coding, improve productivity, and enhance code quality. Adept at collaborating in agile teams and committed to continuous learning and innovation.
 - Skilled in RESTful Web APIs: design, consumption, and documentation.
 - Hands-on experience with Microsoft Azure, Azure DevOps, Outlook Add-in development.
 - Advanced SQL Server & MySQL: database design, queries, stored procedures, triggers, functions, views; ADO.NET & Entity Framework.
@@ -17,7 +18,7 @@ Aim to work in a challenging environment where I can utilize my expertise in tec
 - Experienced with TFS, SVN, and Git for source control and project tracking.
 - Deep understanding of SDLC in Agile and Waterfall methodologies.
 - Strong analytical, problem-solving, and interpersonal skills; quick learner; team player and independent contributor.
-- **AI/ML:** Experience integrating AI-powered features into business applications, leveraging cloud-based AI APIs (e.g., Azure Cognitive Services, OpenAI), and implementing basic machine learning models for automation and data analysis.
+
 
 ## 🛠️ Tech Stack & Skills
 
