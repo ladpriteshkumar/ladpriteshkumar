@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ladpriteshkumar
-- 👀 I’m interested in learning technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach out to me on ladpriteshkumar@gmail.com
-
-
  # PRITESHKUMAR LAD # 
 **🌍** 13717 Lubeck Dr , Pflugerville, TX 78660\
 **📨** ladpriteshkumar@gmail.com\
@@ -13,26 +6,18 @@
 # CAREER OBJECTIVE #
 Aim to work in a challenging environment where I can utilize my expertise in technical skills, towards the development and implementation of the new ideas, contributing to the growth of the organization.
 
-# SUMMARY #
-
-Experienced IT professional with over 10 years in designing and developing applications using Microsoft 
-technologies. Proficient in MVC design patterns, .NET frameworks (including .NET Core), and front-end 
-technologies such as AngularJS, Angular, and React. Skilled in developing RESTful Web APIs, gRPC 
-services, and leveraging Microsoft Azure and Outlook Add-ins. 
-Strong backend expertise with SQL SERVER, Ado.Net, Entity Framework, and database design, including 
-query development, stored procedures, and views. Experienced in creating responsive web designs 
-using Bootstrap, Kendo UI, DataTable.js, and nvd3.js. Known for strong teamwork, analytical, and 
-problem-solving skills, with a proven ability to adapt quickly to new technologies and situations, while 
-meeting deadlines proactively. 
-
-# 👋 Hi, I'm Priteshkumar Lad!
-
-**Senior Software Developer**  
-.NET | ReactJS | SQL Server | Azure | GitHub
-
----
-
-Welcome to my GitHub profile! I am a dedicated and results-driven Senior Software Developer with a passion for building scalable, robust, and impactful web and enterprise solutions. My expertise spans across modern Microsoft technologies, cloud platforms, and frontend frameworks.
+## Summary
+- 11+ years of professional experience in Information Technology, designing and developing web and windows-based applications using Microsoft Technologies.
+- Demonstrated strong proficiency in the Model-View-Controller (MVC) architectural pattern, with hands-on experience developing web applications using ASP.NET MVC 4 and MVC 5 frameworks, ensuring efficient code organization, maintainability, and scalable solutions.
+- Skilled in RESTful Web APIs: design, consumption, and documentation.
+- Hands-on experience with Microsoft Azure, Azure DevOps, Outlook Add-in development.
+- Advanced SQL Server & MySQL: database design, queries, stored procedures, triggers, functions, views; ADO.NET & Entity Framework.
+- Expertise in responsive web design with Bootstrap, jQuery, Kendo UI, DataTable.js, nvd3.js.
+- Strong PowerShell scripting and .bat file automation.
+- Experienced with TFS, SVN, and Git for source control and project tracking.
+- Deep understanding of SDLC in Agile and Waterfall methodologies.
+- Strong analytical, problem-solving, and interpersonal skills; quick learner; team player and independent contributor.
+- **AI/ML:** Experience integrating AI-powered features into business applications, leveraging cloud-based AI APIs (e.g., Azure Cognitive Services, OpenAI), and implementing basic machine learning models for automation and data analysis.
 
 ## 🛠️ Tech Stack & Skills
 
