@@ -7,7 +7,7 @@
 Aim to work in a challenging environment where I can utilize my expertise in technical skills, towards the development and implementation of the new ideas, contributing to the growth of the organization.
 
 ## Summary
-- 11+ years of professional experience in Information Technology, designing and developing web and windows-based applications using Microsoft Technologies.
+- Results-driven IT professional with over 11 years of comprehensive experience in designing, developing, and maintaining applications using the Microsoft technology stack. Proven expertise in delivering scalable, high-performance solutions across diverse industry domains. Adept at full software development lifecycle (SDLC), with a strong foundation in architecture design, coding standards, debugging, and deployment. Passionate about leveraging Microsoft tools to drive innovation, optimize workflows, and exceed stakeholder expectations.
 - Demonstrated strong proficiency in the **Model-View-Controller (MVC)** architectural pattern, with hands-on experience developing web applications using ASP.NET MVC 4 and MVC 5 frameworks, ensuring efficient code organization, maintainability, and scalable solutions.
 - Proficient in leveraging AI-powered tools such as **GitHub Copilot** to accelerate coding, improve productivity, and enhance code quality. Adept at collaborating in agile teams and committed to continuous learning and innovation.
 - Skilled in RESTful Web APIs: design, consumption, and documentation.
